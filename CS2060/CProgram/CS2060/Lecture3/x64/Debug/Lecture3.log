@@ -1,0 +1,9 @@
+﻿  lectureEightteen.c
+  lectureThirdteen.c
+C:\CProgram\CS2060\Lecture3\lectureThirdteen.c(13,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CProgram\CS2060\Lecture3\lectureThirdteen.c(17,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CProgram\CS2060\Lecture3\lectureThirdteen.c(35,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+C:\CProgram\CS2060\Lecture3\main.c(48,18): warning C4013: 'lectureEightteen' undefined; assuming extern returning int
+  theFizzBuzzGame.c
+  Generating Code...
